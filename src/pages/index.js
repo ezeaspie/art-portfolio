@@ -8,7 +8,7 @@ import Darla1 from '../images/Darla1.jpg'
 import Darla2 from '../images/Darla2.jpg'
 import Darla3 from '../images/Darla3.jpg'
 import MadelineParadise from '../images/MadelineParadise.jpg'
-import MaxineDreams from '../images/MaxineDreams.png'
+import MaxineDreams from '../images/MaxineDreams.jpg'
 import Theresa from '../images/Theresa.jpg'
 import IsolatedFears from '../images/isolatedFears.jpg';
 import FS01 from '../images/FS01.jpg';
