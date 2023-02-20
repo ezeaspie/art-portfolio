@@ -10,7 +10,7 @@ import Darla3 from '../images/Darla3.jpg'
 import MadelineParadise from '../images/MadelineParadise.jpg'
 import MaxineDreams from '../images/MaxineDreams.png'
 import Theresa from '../images/Theresa.jpg'
-import IsolatedFears from '../images/IsolatedFears.jpg';
+import IsolatedFears from '../images/isolatedFears.jpg';
 import FS01 from '../images/FS01.jpg';
 import Chibi from '../images/chibi.jpg'
 import MadelineConcept from '../images/MadelineConcept.png';

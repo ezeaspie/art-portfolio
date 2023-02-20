@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import About from '../images/About.jpg'
+import About from '../images/about.jpg'
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
